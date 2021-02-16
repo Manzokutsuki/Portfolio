@@ -1,0 +1,66 @@
+html{
+	background: url(../img/tree.jpg) no-repeat center center fixed;
+	background-size: cover;
+	height: 100%;
+}
+
+img{
+	max-width: 100%;
+}
+header h1{
+	background: #264653;
+	text-align: center;
+	color: white;
+}
+
+h3{
+	margin-left: 0.5rem;
+}
+
+.left{
+	display: block;
+	width: 20%;
+	float: left;
+	background: #e9c46a;
+}
+
+.right{
+	background: #f4a261;
+}
+
+.right h2{
+	text-align: center;
+	color: white;
+}
+
+.right p{
+	text-align: inherit;
+}
+
+.bottom{
+	background: #e76f51;
+}
+
+.bottom h2{
+	text-align: center;
+	color: white;
+}
+
+p{
+	margin-left: 0.2rem;
+}
+
+footer{
+	background: #2a9d8f;
+	display: block;
+	clear: both;
+}
+
+footer p{
+	text-align: center;
+}
+
+footer p i{
+	text-align: center;
+	font-size: 2rem;
+}
