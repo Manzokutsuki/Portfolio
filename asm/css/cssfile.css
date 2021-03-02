@@ -64,3 +64,14 @@ footer p i{
 	text-align: center;
 	font-size: 2rem;
 }
+
+@media screen and (max-width: 900px){
+	.left{
+		display: inline-flex;
+		clear: both;
+		width: 100%;
+	}
+	.left p{
+		display: contents;
+	}
+}
